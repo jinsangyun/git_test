@@ -1,0 +1,22 @@
+
+
+C:\Users\vivaj>git config --global user.name syjin
+
+C:\Users\vivaj>git  config --global user.email syjin@signalsystem114.com
+
+C:\Users\vivaj>cd D:\SignalSystem\Git_Test
+
+
+C:\Users\vivaj>d:
+
+//Repository 파일 복사
+D:\SignalSystem\Git_Test>git clone https://github.com/jinsangyun/git_test.git
+Cloning into 'git_test'...
+warning: You appear to have cloned an empty repository.
+
+// 초기화
+D:\SignalSystem\Git_Test>git init
+
+// 상태 확인
+D:\SignalSystem\Git_Test>git status
+// 적색으로 표시된 부분이 수정되었음을 나타냄
